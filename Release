@@ -1,8 +1,8 @@
-
 Origin: sa sattamalshlsh
-Label: sattamalshlsh 
+Label: sattamalshlsh
 Suite: stable
 Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: repo
+Description: "iOS the way it's meant to be"

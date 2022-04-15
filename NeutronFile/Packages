@@ -1,0 +1,87 @@
+Package: com.neutronfile.cydown
+Name: CyDown
+Version: 7.0.6-1
+Filename: debfiles//com.neutronfile.cydown_7.0.6-1_iphoneos-arm.deb
+Size: 4061430  
+MD5sum: 8f3ef22eddcf73f02042d46cc5543c70
+SHA1: 0a03e234f23ca513466a873a60aadfa083c76db2
+SHA256: 421f3b5f96c0b11ae5652c65e4ab957af8ab32e027762f81b497343ce9ed0b38
+SHA512: c3ffb8468e9aa4b5870357f82cd49275f632a40dc2e13d5a01ee0349105ad23e5f668f0b1277c940accc888aeda979bc414cc70845337c69e24fa5ecf6b95ead
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Depiction: https://elhizazi1.github.io/NF.io/depic/cydown.html
+Author: julioverne
+Section: Tweaks
+Maintainer: NeutronFile
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.pn
+
+Package: com.neutronfile.filza
+Name: Filza File Manager (32bits)
+Version: 3.6.1-1
+Filename: debfiles//com.neutronfile.filza_3.6.1-1_iphoneos-arm.deb
+Size: 12461376
+MD5sum: 7eb7c06614398b72460118cadea12ece
+SHA1: be52354e0975dcf5f657ab954b4333c463caf79d
+SHA256: 77a5a93f540c4274021d5ae5fa475987a97bcb8abd02f3bcb530315667eb9717
+SHA512: dd9b531227f838e1edd2461f1417f8ca3f48d8598e33a0859a58da6b83eb9cb280a5d3464896846d560ddb7744d3afcdc3d2356eeb4258087ee332ea63339fac
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Depiction: https://elhizazi1.github.io/NF.io/depic/filza.html
+Author: TIGI Software
+Section: Tweaks
+Maintainer: Neutronfile
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+
+Package: com.neutronfile.debrepack
+Name: deb Repack
+Author: julioverne
+Version: 1.0-1a
+Depends: dpkg
+Architecture: iphoneos-arm
+Filename: debfiles//com.neutronfile.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1174
+MD5sum: 45e8a190ef73cba1ec77ec3ca9ce48be
+SHA1: 029d8df77d5e020578f6a0cc67f3057b05693362
+SHA256: 637f6b9c69d19c701291f26295f015fc2384e37218a073d3196ed83ca4136954
+SHA512: 8c6dc5d0920f0bf882958ee909785bb1a09060a4acf4e79092108743796e28b84929a73f24300cd7d5e2fb3cd842e395704d4f6c2d70a7e96fd6c4d0a478105b
+Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
+Homepage: https://www.neutronfile.com/
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Section: Development
+Depiction: https://elhizazi1.github.io/NF.io/depic/debrepack.html
+
+Package: com.neutronfile.redeb
+Name: redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Filename: debfiles//com.neutronfile.redeb_1.0.3_iphoneos-arm.deb
+Size: 3540
+MD5sum: 67853c11e6ccc39dbffb1fe7e9a47a79
+SHA1: 3f8925b2c5d80e8cefd1b5ce7dea1807dbcd40de
+SHA256: 23350875203ce124ab46c646616fb5456bca2fdc95799833dcd5d22fc132f45f
+SHA512: 85c89472af3d49281ce8cb527887ffccfbd6e1b59af0e70d95622550102422db94d746312821c1d16a6f34b6f8be143fc166223d1204a05c3f90d3b3c889b79e
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Depiction: https://elhizazi1.github.io/NF.io/depic/redeb.html
+Author: T.Herak
+Section: Development
+Maintainer: NeutronFile
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+
+Package: com.neutronfile.mterminal
+Name: MTerminal
+Version: 1.4-5
+Filename: debfiles//com.neutronfile.mterminal_1.4-5_iphoneos-arm.deb
+Size: 129052
+MD5sum: f04eb0358e5fa995857f490e4ce57e7f
+SHA1: 96be4027b6b2a2ba57d3328a4d61eba5d5989a10
+SHA256: fc1309f1cc1f4341d9acc878ab594f9a053a3efd0985741571a04fe804501bf9
+SHA512: 297027fb35e46843b0144a0aea3795136b277dff50c4dafca1344a816c2a9b5b85a12bde4a5b8acdaa66bb4a0e266a8dbff01d12228e4a4da98b8f64a01ab30a
+Architecture: iphoneos-arm
+Description: A stripped-down, lightweight MobileTerminal fock with tap zones (see below)
+Depiction: https://elhizazi1.github.io/NF.io/depic/mterminal.html
+Author: lordscotland
+Section: Utilities
+Maintainer: NeutronFile
+Depends: firmware (>= 4.0), system-cmds
