@@ -1,7 +1,7 @@
-Package: com.neutronfile.cydown
+Package: com.sattamalshlsh.cydown
 Name: CyDown
 Version: 7.0.6-1
-Filename: debfiles//com.neutronfile.cydown_7.0.6-1_iphoneos-arm.deb
+Filename: debfiles//com.sattamalshlsh.cydown_7.0.6-1_iphoneos-arm.deb
 Size: 4061430  
 MD5sum: 8f3ef22eddcf73f02042d46cc5543c70
 SHA1: 0a03e234f23ca513466a873a60aadfa083c76db2
@@ -12,14 +12,14 @@ Description: Cydia Download Manager & Extra Features!
 Depiction: https://sattamalshlsh.github.io/sa/depic/cydown.html
 Author: julioverne
 Section: Tweaks
-Maintainer: NeutronFile
+Maintainer: sattamalshlsh
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.pn
 
-Package: com.neutronfile.filza
+Package: com.sattamalshlsh.filza
 Name: Filza File Manager (32bits)
 Version: 3.6.1-1
-Filename: debfiles//com.neutronfile.filza_3.6.1-1_iphoneos-arm.deb
+Filename: debfiles//com.sattamalshlsh.filza_3.6.1-1_iphoneos-arm.deb
 Size: 12461376
 MD5sum: 7eb7c06614398b72460118cadea12ece
 SHA1: be52354e0975dcf5f657ab954b4333c463caf79d
@@ -34,29 +34,29 @@ Maintainer: sattamalshlsh
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 
-Package: com.neutronfile.debrepack
+Package: com.sattamalshlsh.debrepack
 Name: deb Repack
 Author: julioverne
 Version: 1.0-1a
 Depends: dpkg
 Architecture: iphoneos-arm
-Filename: debfiles//com.neutronfile.debrepack_1.0-1a_iphoneos-arm.deb
+Filename: debfiles//com.sattamalshlsh.debrepack_1.0-1a_iphoneos-arm.deb
 Size: 1174
 MD5sum: 45e8a190ef73cba1ec77ec3ca9ce48be
 SHA1: 029d8df77d5e020578f6a0cc67f3057b05693362
 SHA256: 637f6b9c69d19c701291f26295f015fc2384e37218a073d3196ed83ca4136954
 SHA512: 8c6dc5d0920f0bf882958ee909785bb1a09060a4acf4e79092108743796e28b84929a73f24300cd7d5e2fb3cd842e395704d4f6c2d70a7e96fd6c4d0a478105b
 Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
-Homepage: https://www.neutronfile.com/
-Maintainer: NeutronFile <neutronfile19@gmail.com>
+Homepage: https://www.sattamalshlsh.com/
+Maintainer: sattamalshlsh <sattamalshlsh19@gmail.com>
 Section: Development
 Depiction: https://sattamalshlsh.github.io/sa/depic/debrepack.html
 
-Package: com.neutronfile.redeb
+Package: com.sattamalshlsh.redeb
 Name: redeb
 Version: 1.0.3
 Architecture: iphoneos-arm
-Filename: debfiles//com.neutronfile.redeb_1.0.3_iphoneos-arm.deb
+Filename: debfiles//com.sattamalshlsh.redeb_1.0.3_iphoneos-arm.deb
 Size: 3540
 MD5sum: 67853c11e6ccc39dbffb1fe7e9a47a79
 SHA1: 3f8925b2c5d80e8cefd1b5ce7dea1807dbcd40de
@@ -69,10 +69,10 @@ Section: Development
 Maintainer: sattamalshlsh
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
 
-Package: com.neutronfile.mterminal
+Package: com.sattamalshlsh.mterminal
 Name: MTerminal
 Version: 1.4-5
-Filename: debfiles//com.neutronfile.mterminal_1.4-5_iphoneos-arm.deb
+Filename: debfiles//com.sattamalshlsh.mterminal_1.4-5_iphoneos-arm.deb
 Size: 129052
 MD5sum: f04eb0358e5fa995857f490e4ce57e7f
 SHA1: 96be4027b6b2a2ba57d3328a4d61eba5d5989a10
