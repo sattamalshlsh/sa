@@ -26,7 +26,7 @@ SHA1: 848fee7311c1a980e6c38dea75f8ce4974b2079a
 SHA256: 5d28b39b87ceb613ee9da2f687b6f5af4bb7febbf500c4321893a75f16c84e63
 SHA512: 78a57dc0a5ff90c8cd4aae7754e076668175e7b28ba9a3e672308cfe31f0ad6f1dda0478fd61e7093b2d5e58c44195040777347e0a70b3f615d1ff71a6059ae8
 Architecture: iphoneos-arm
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 14 +
 Depiction: https://sattamalshlsh.github.io/sa/depic/filza.html
 Author: TIGI Software
 Section: Tweaks
