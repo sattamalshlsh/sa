@@ -99,7 +99,7 @@ SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474
 SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
 Section: Tweaks
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
 Author: CokePokes
 Depiction: https://sattamalshlsh.github.io/sa/
 Name: AppStore++
