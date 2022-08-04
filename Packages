@@ -86,7 +86,7 @@ Section: Utilities
 Maintainer: sattamalshlsh
 Depends: firmware (>= 4.0), system-cmds
 
-Package: com.cokepokes.appstoreplusplus11
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.18
 Architecture: iphoneos-arm
 Maintainer: sattamalshlsh
