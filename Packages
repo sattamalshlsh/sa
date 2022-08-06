@@ -34,41 +34,6 @@ Maintainer: sattamalshlsh
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 
-Package: com.sattamalshlsh.debrepack
-Name: deb Repack
-Author: julioverne
-Version: 1.0-1a
-Depends: dpkg
-Architecture: iphoneos-arm
-Filename: debfiles//com.sattamalshlsh.debrepack_1.0-1a_iphoneos-arm.deb
-Size: 1174
-MD5sum: 45e8a190ef73cba1ec77ec3ca9ce48be
-SHA1: 029d8df77d5e020578f6a0cc67f3057b05693362
-SHA256: 637f6b9c69d19c701291f26295f015fc2384e37218a073d3196ed83ca4136954
-SHA512: 8c6dc5d0920f0bf882958ee909785bb1a09060a4acf4e79092108743796e28b84929a73f24300cd7d5e2fb3cd842e395704d4f6c2d70a7e96fd6c4d0a478105b
-Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
-Homepage: https://www.sattamalshlsh.com/
-Maintainer: sattamalshlsh <sattamalshlsh19@gmail.com>
-Section: Development
-Depiction: https://sattamalshlsh.github.io/sa/depic/debrepack.html
-
-Package: com.sattamalshlsh.redeb
-Name: redeb
-Version: 1.0.3
-Architecture: iphoneos-arm
-Filename: debfiles//com.sattamalshlsh.redeb_1.0.3_iphoneos-arm.deb
-Size: 3540
-MD5sum: 67853c11e6ccc39dbffb1fe7e9a47a79
-SHA1: 3f8925b2c5d80e8cefd1b5ce7dea1807dbcd40de
-SHA256: 23350875203ce124ab46c646616fb5456bca2fdc95799833dcd5d22fc132f45f
-SHA512: 85c89472af3d49281ce8cb527887ffccfbd6e1b59af0e70d95622550102422db94d746312821c1d16a6f34b6f8be143fc166223d1204a05c3f90d3b3c889b79e
-Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
-Depiction: https://sattamalshlsh.github.io/sa/depic/redeb.html
-Author: T.Herak
-Section: Development
-Maintainer: sattamalshlsh
-Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
-
 Package: com.sattamalshlsh.mterminal
 Name: MTerminal
 Version: 1.4-5
@@ -85,3 +50,21 @@ Author: lordscotland
 Section: Utilities
 Maintainer: sattamalshlsh
 Depends: firmware (>= 4.0), system-cmds
+
+Package: com.sattamalshlsh.appstoreplusplus
+Name: AppStore++
+Version: 0.9.18
+Architecture: iphoneos-arm
+Maintainer: sattamalshlsh
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debfiles/com.sattamalshlsh.appstoreplusplus_0.9.18_iphoneos-arm.deb
+Size: 3706724
+MD5sum: a842ea1120891c11710c6b22012d1e1e
+SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474
+SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11+
+Author: CokePokes
+Depiction: https://sattamalshlsh.github.io/sa/depic/AppStore.html
+Depends: firmware (>= 11.0), mobilesubstrate
