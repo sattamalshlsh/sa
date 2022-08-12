@@ -44,7 +44,7 @@ SHA1: b7137d41b2f51d3a9d6047405ba2f54485694f58
 SHA256: fc1309f1cc1f4341d9acc878ab594f9a053a3efd0985741571a04fe804501bf9
 SHA512: 20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
 Architecture: iphoneos-arm
-Description: A stripped-down, lightweight MobileTerminal fock with tap zones (see below)
+Description: A powerful terminal app for iOS
 Depiction: https://sattamalshlsh.github.io/sa/depic/newterm2.html
 Author: sattamalshlsh
 <sattamalshlsh@icloud.com>
