@@ -122,3 +122,12 @@ Description: Library for Watusi and WhatsApp tweaks
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
 Depends: firmware (>= 10.0), darwintools
+
+Package: com.sattamalshlsh.boxy4
+Section: Packix Tweaks
+Installed-Size: 3636
+Maintainer: sattamalshlsh
+Architecture: iphoneos-arm
+Version: 4.4.2
+Name: Boxy 4 (iOS 13-14)
+Author: sattamalshlsh
