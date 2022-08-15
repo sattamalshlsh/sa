@@ -47,7 +47,6 @@ Architecture: iphoneos-arm
 Description: A powerful terminal app for iOS
 Depiction: https://sattamalshlsh.github.io/sa/depic/newterm2.html
 Author: sattamalshlsh
-<sattamalshlsh@icloud.com>
 Section: Terminal Support
 Maintainer: sattamalshlsh
 Depends: firmware (>= 4.0), system-cmds
