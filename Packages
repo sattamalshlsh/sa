@@ -106,3 +106,20 @@ Description: The all-in-one tweak for WhatsApp Messenger
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.3.0), com.rpetrich.rocketbootstrap, applist
+
+Package: com.sattamalshlsh.watusitools
+Name: WatusiTools
+Version: 2.3.7
+Compatibility: iOS 10+
+Architecture: iphoneos-arm
+Maintainer: sattamalshlsh
+Filename: debfiles/com.sattamalshlsh.watusitools_2.3.7_iphoneos-arm.deb
+Size: 14318836
+MD5sum: 24693469109d2374f9f03925c6f706bf
+SHA1: 2891a531d2a8f4c78138af3e53e557b8fa242fa3
+SHA256: 73c8ea514fba1b187c01c628e577d38b30bcad74722fefe772826d06d21a2bc6
+Section: Tweaks
+Description: Library for Watusi and WhatsApp tweaks
+Author: sattamalshlsh
+Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
+Depends: firmware (>= 10.0), darwintools
