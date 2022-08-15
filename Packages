@@ -10,7 +10,7 @@ SHA512: c3ffb8468e9aa4b5870357f82cd49275f632a40dc2e13d5a01ee0349105ad23e5f668f0b
 Architecture: iphoneos-arm
 Description: Cydia Download Manager & Extra Features!
 Depiction: https://sattamalshlsh.github.io/sa/depic/cydown.html
-Author: julioverne
+Author: sattamalshlsh
 Section: Tweaks
 Maintainer: sattamalshlsh
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
@@ -66,14 +66,15 @@ SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11+
-Author: CokePokes
+Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/AppStore.html
 Depends: firmware (>= 11.0), mobilesubstrate
+Homepage: https://twitter.com/Sattamalshlsh
 
 Package: com.sattamalshlsh.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
-Maintainer: ssattam
+Maintainer: sattamalshlsh
 Depends: com.sattamalshlsh.libcspreferences
 Pre-Depends: firmware (>= 8.0),  
 Conflicts: com.cpdigitaldarkroom.placeholder
@@ -83,5 +84,7 @@ MD5sum: 7d3e13a043d7f73c4a5866abbf040b71
 SHA1: 8d0fb832dd4971d96fcb8dfb527bd4aec30ecdc4
 SHA256: 3c1d765df9e14e7de6ff00330b6119285ca57f31f679fbbf13d2774d66510a8b
 Section: Tweaks
+Description: Organize your settings Supports iOS 11+
+Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/shuffle.html
 Name: shuffle
