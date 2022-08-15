@@ -55,6 +55,7 @@ Depends: firmware (>= 4.0), system-cmds
 Package: com.sattamalshlsh.appstoreplusplus
 Name: AppStore++
 Version: 0.9.18
+Compatibility: iOS 11+
 Architecture: iphoneos-arm
 Maintainer: sattamalshlsh
 Conflicts: com.unlimapps.uaupdatetools
@@ -88,3 +89,20 @@ Description: Organize your settings Supports iOS 11+
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/shuffle.html
 Name: shuffle
+
+Package: com.sattamalshlsh.watusi
+Name: Watusi 2 for WhatsApp
+Version: 1.4.20
+Compatibility: iOS 9+
+Architecture: iphoneos-arm
+Maintainer: sattamalshlsh
+Filename: debfiles/com.sattamalshlsh.watusi_1.4.20_iphoneos-arm.deb
+Size: 4019352
+MD5sum: 3cda01e6c12527304919650589772023
+SHA1: fbc161aced1e6d60191ffc85fff98478132c1af8
+SHA256: 8dbe2028ec2781e2576148792b581bdee8583308af60dc930e3756f911338f57
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: sattamalshlsh
+Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.3.0), com.rpetrich.rocketbootstrap, applist
