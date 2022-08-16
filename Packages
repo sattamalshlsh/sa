@@ -199,5 +199,5 @@ Filename: debfiles/callbarxs_4.0-127.deb
 Architecture: iphoneos-arm
 Version: 4.0-127
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12),
-Name: CallBar XS (iOS 12/13/14)
+Name: CallBar XS(iOS 12/13/14)
 Author: sattamalshlsh
