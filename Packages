@@ -168,6 +168,36 @@ Filename: debfiles/com. sattamalshlsh.snapper2_2.5.12_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Version: 2.5.12
 Depends: mobilesubstrate, firmware (>= 12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
 Name: Snapper 2
+Author: sattamalshlsh
+
+Package: com.sattamalshlsh.snowboard
+Section: Tweaks
+Description: To activate themes
+Size: 1591776
+MD5sum: b75be9c7bf4881610cdfef45b3ad3d4e
+SHA1: c73ea8b19411e0d635e9c892e259bba55b253325
+SHA256: 2cd493870317c776adc5f0ca5ccbaeb3bb7058ae4ec2096e6c2ad97b228badee
+Maintainer: sattamalshlsh
+Filename: debfiles/com.sattamalshlsh.snowboard_1.4.20_Beta4_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Depends: mobilesubstrate, preferenceloader
+Name: snowboard
+Author: sattamalshlsh
+Compatibility: iOS 7+
+
+Package: net.sattamalshlsh.callbarxs
+Section: Tweaks
+Description: Incoming or outgoing calls appear as a notification at the top or bottom of the screen so as not to interrupt you if you are browsing something important
+Size: 293146
+MD5sum: 3b8dc64bf90c635fd16fb25f8b37ed78
+SHA1: 19dafe0eb0dd3e5b1e4e2a4de052be899be77057
+SHA256: a7b3f679614e110e7f09bfa092ed317e03dfeeb393ac6da45b8957e729b02937
+Maintainer: sattamalshlsh
+Filename: debfiles/callbarxs_4.0-127.deb
+Architecture: iphoneos-arm
+Version: 4.0-127
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12),
+Name: CallBar XS (iOS 12/13/14)
 Author: sattamalshlsh
