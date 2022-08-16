@@ -125,9 +125,14 @@ Depends: firmware (>= 10.0), darwintools
 
 Package: com.sattamalshlsh.boxy4
 Section: Packix Tweaks
-Installed-Size: 3636
+Size: 3022446
+MD5sum: dca3be960162c8b874225a1a1ce99532
+SHA1: fc285d9cc9e9b37e03fb8578d8fd25c92a0a98c1
+SHA256: c8174a49f064baa127dcb3ecfffb9792601a51e31f7b2078c05bb88699b91a0e
 Maintainer: sattamalshlsh
 Architecture: iphoneos-arm
 Version: 4.4.2
 Name: Boxy 4 (iOS 13-14)
 Author: sattamalshlsh
+Depiction: https://sattamalshlsh.github.io/sa/depic/boxy4.html
+Filename: debfiles/com.sattamalshlsh.boxy4_4.4.2_iphoneos-arm.deb
