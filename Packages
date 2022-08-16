@@ -125,6 +125,7 @@ Depends: firmware (>= 10.0), darwintools
 
 Package: com.sattamalshlsh.boxy4
 Section: Tweaks
+Description: It enables you to arrange the icons on the main screen with the ability to specify the number of rows and columns
 Size: 3022446
 MD5sum: dca3be960162c8b874225a1a1ce99532
 SHA1: fc285d9cc9e9b37e03fb8578d8fd25c92a0a98c1
@@ -157,6 +158,7 @@ Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0
 
 Package: com.sattamalshlsh.snapper2
 Section: Tweaks
+Description: Capture a specific part of the screen, move and control it
 Size: 531016
 MD5sum: 52481017d3efd7a4061612d20be23988
 SHA1: cfdf1c37a259ba7ba8fcb6d00591b17ae3dd1e2c
