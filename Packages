@@ -154,3 +154,18 @@ Description: Run HTML widgets on the Lockscreen and Homescreen
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/xenhtml.html
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+
+Package: com.sattamalshlsh.snapper2
+Section: Tweaks
+Size: 531016
+MD5sum: 52481017d3efd7a4061612d20be23988
+SHA1: cfdf1c37a259ba7ba8fcb6d00591b17ae3dd1e2c
+SHA256: 2d1fd67382b2001fa56fe19de37541f71b80730024ea3b16a46d73958083493c
+Maintainer: sattamalshlsh
+Filename: debfiles/com. sattamalshlsh.snapper2_2.5.12_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 2.5.12
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Name: Snapper 2
+Author: sattamalshlsh
