@@ -69,7 +69,7 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11+
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/AppStore.html
 Depends: firmware (>= 11.0), mobilesubstrate
-Homepage: https://twitter.com/Sattamalshlsh
+Homepage: https://sattamalshlsh.blogspot.com/
 
 Package: com.sattamalshlsh.shuffle
 Version: 1.6.1
@@ -138,6 +138,7 @@ Depiction: https://sattamalshlsh.github.io/sa/depic/boxy4.html
 Filename: debfiles/com.sattamalshlsh.boxy4_4.4.2_iphoneos-arm.deb
 
 Package: com.sattamalshlsh.xenhtml
+Homepage: https://sattamalshlsh.blogspot.com/
 Name: Xen HTML
 Version: 2.0.2~release
 Compatibility: iOS 9+
