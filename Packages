@@ -136,3 +136,20 @@ Name: Boxy 4 (iOS 13-14)
 Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/boxy4.html
 Filename: debfiles/com.sattamalshlsh.boxy4_4.4.2_iphoneos-arm.deb
+
+Package: com.sattamalshlsh.xenhtml
+Name: Xen HTML
+Version: 2.0.2~release
+Compatibility: iOS 9+
+Architecture: iphoneos-arm
+Maintainer: sattamalshlsh
+Filename: debfiles/com.sattamalshlsh.xenhtml_2.0.2_release_iphoneos-arm.deb
+Size: 4426416 
+MD5sum: 78e5c3b58e153f908664486e3883dd7d
+SHA1: 72df6da1e69ec49a62e4a502d0b5319fb9c4ae2d
+SHA256: 7536e6678be0eff88ec12de6855e55ed511672ba0f88f2ec563f0fa1bea8ffbd
+Section: Tweaks
+Description: Run HTML widgets on the Lockscreen and Homescreen
+Author: sattamalshlsh
+Depiction: https://sattamalshlsh.github.io/sa/depic/xenhtml.html
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
