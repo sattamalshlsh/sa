@@ -1,20 +1,3 @@
-Package: com.sattamalshlsh.cydown
-Name: CyDown
-Version: 7.0.6-1
-Filename: debfiles//com.sattamalshlsh.cydown_7.0.6-1_iphoneos-arm.deb
-Size: 4061430  
-MD5sum: 8f3ef22eddcf73f02042d46cc5543c70
-SHA1: 0a03e234f23ca513466a873a60aadfa083c76db2
-SHA256: 421f3b5f96c0b11ae5652c65e4ab957af8ab32e027762f81b497343ce9ed0b38
-SHA512: c3ffb8468e9aa4b5870357f82cd49275f632a40dc2e13d5a01ee0349105ad23e5f668f0b1277c940accc888aeda979bc414cc70845337c69e24fa5ecf6b95ead
-Architecture: iphoneos-arm
-Description: Cydia Download Manager & Extra Features!
-Depiction: https://sattamalshlsh.github.io/sa/depic/cydown.html
-Author: sattamalshlsh
-Section: Tweaks
-Maintainer: sattamalshlsh
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.pn
 
 Package: com.sattamalshlsh.filza
 Name: Filza File Manager (32bits)
@@ -89,55 +72,6 @@ Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/shuffle.html
 Name: shuffle
 
-Package: com.sattamalshlsh.watusi
-Name: Watusi 2 for WhatsApp
-Version: 1.4.20
-Compatibility: iOS 9+
-Architecture: iphoneos-arm
-Maintainer: sattamalshlsh
-Filename: debfiles/com.sattamalshlsh.watusi_1.4.20_iphoneos-arm.deb
-Size: 4019352
-MD5sum: 3cda01e6c12527304919650589772023
-SHA1: fbc161aced1e6d60191ffc85fff98478132c1af8
-SHA256: 8dbe2028ec2781e2576148792b581bdee8583308af60dc930e3756f911338f57
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: sattamalshlsh
-Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.3.0), com.rpetrich.rocketbootstrap, applist
-
-Package: com.sattamalshlsh.watusitools
-Name: WatusiTools
-Version: 2.3.7
-Compatibility: iOS 10+
-Architecture: iphoneos-arm
-Maintainer: sattamalshlsh
-Filename: debfiles/com.sattamalshlsh.watusitools_2.3.7_iphoneos-arm.deb
-Size: 14318836
-MD5sum: 24693469109d2374f9f03925c6f706bf
-SHA1: 2891a531d2a8f4c78138af3e53e557b8fa242fa3
-SHA256: 73c8ea514fba1b187c01c628e577d38b30bcad74722fefe772826d06d21a2bc6
-Section: Tweaks
-Description: Library for Watusi and WhatsApp tweaks
-Author: sattamalshlsh
-Depiction: https://sattamalshlsh.github.io/sa/depic/watusi.html
-Depends: firmware (>= 10.0), darwintools
-
-Package: com.sattamalshlsh.boxy4
-Section: Tweaks
-Description: It enables you to arrange the icons on the main screen with the ability to specify the number of rows and columns
-Size: 3022446
-MD5sum: dca3be960162c8b874225a1a1ce99532
-SHA1: fc285d9cc9e9b37e03fb8578d8fd25c92a0a98c1
-SHA256: c8174a49f064baa127dcb3ecfffb9792601a51e31f7b2078c05bb88699b91a0e
-Maintainer: sattamalshlsh
-Architecture: iphoneos-arm
-Version: 4.4.2
-Name: Boxy 4 (iOS 13-14)
-Author: sattamalshlsh
-Depiction: https://sattamalshlsh.github.io/sa/depic/boxy4.html
-Filename: debfiles/com.sattamalshlsh.boxy4_4.4.2_iphoneos-arm.deb
-
 Package: com.sattamalshlsh.xenhtml
 Name: Xen HTML
 Version: 2.0.2~release
@@ -156,21 +90,6 @@ Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/xenhtml.html
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 
-Package: com.sattamalshlsh.snapper2
-Section: Tweaks
-Description: Capture a specific part of the screen, move and control it
-Size: 531016
-MD5sum: 52481017d3efd7a4061612d20be23988
-SHA1: cfdf1c37a259ba7ba8fcb6d00591b17ae3dd1e2c
-SHA256: 2d1fd67382b2001fa56fe19de37541f71b80730024ea3b16a46d73958083493c
-Maintainer: sattamalshlsh
-Filename: debfiles/com. sattamalshlsh.snapper2_2.5.12_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Version: 2.5.12
-Depends: mobilesubstrate, firmware (>= 12.1)
-Name: Snapper 2
-Author: sattamalshlsh
-
 Package: com.sattamalshlsh.snowboard
 Section: Tweaks
 Description: To activate themes
@@ -186,18 +105,3 @@ Depends: mobilesubstrate, preferenceloader
 Name: snowboard
 Author: sattamalshlsh
 Compatibility: iOS 7+
-
-Package: net.sattamalshlsh.callbarxs
-Section: Tweaks
-Description: Incoming or outgoing calls appear as a notification at the top or bottom of the screen so as not to interrupt you if you are browsing something important
-Size: 293146
-MD5sum: 3b8dc64bf90c635fd16fb25f8b37ed78
-SHA1: 19dafe0eb0dd3e5b1e4e2a4de052be899be77057
-SHA256: a7b3f679614e110e7f09bfa092ed317e03dfeeb393ac6da45b8957e729b02937
-Maintainer: sattamalshlsh
-Filename: debfiles/callbarxs_4.0-127.deb
-Architecture: iphoneos-arm
-Version: 4.0-127
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12),
-Name: CallBar XS(iOS 12/13/14)
-Author: sattamalshlsh
