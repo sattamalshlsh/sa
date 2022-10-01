@@ -1,0 +1,9 @@
+{
+	"name": "shuffle",
+	"desc_short": "To arrange tools, folders, and system applications",
+	"desc_long": "To arrange the Settings section by creating folders for Tools, General Applications, and System Applications",
+	"compatitle": null,
+	"changelog": "",
+	"screenshot": null,
+	"open": true,
+}

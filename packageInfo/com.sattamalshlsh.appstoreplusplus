@@ -1,0 +1,9 @@
+{
+	"name": "AppStore++",
+	"desc_short": "Allows you to downgrade",
+	"desc_long": "",
+	"compatitle": null,
+	"changelog": "<strong>1.0-1a</strong><br>+ Adjust Compression Type to gzip.<br>",
+	"screenshot": null,
+	"open": true,
+}
