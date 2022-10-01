@@ -1,4 +1,4 @@
 # APT Source
 
-## sattamalshlsh's Repo
+## sattamalshlsh
 ### https://sattamalshlsh.github.io/sa/
