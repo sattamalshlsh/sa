@@ -1,1 +1,0 @@
-bash -c "cd /mnt/d/Documents/GitHub/sattamalshlsh.github.io/sa; ./update.sh"

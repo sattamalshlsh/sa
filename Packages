@@ -1,20 +1,21 @@
+
 Package: com.sattamalshlsh.filza
-Architecture: iphoneos-arm
+Name: Filza File Manager (32bits)
 Version: 3.6.1-1
-Section: Tweaks
-Maintainer: sattama
-Depends: zip, unzip, gzip, unrar, p7zip
 Filename: debfiles//com.sattamalshlsh.filza_3.6.1-1_iphoneos-arm.deb
 Size: 12461376
 MD5sum: 7eb7c06614398b72460118cadea12ece
 SHA1: be52354e0975dcf5f657ab954b4333c463caf79d
 SHA256: 77a5a93f540c4274021d5ae5fa475987a97bcb8abd02f3bcb530315667eb9717
 SHA512: dd9b531227f838e1edd2461f1417f8ca3f48d8598e33a0859a58da6b83eb9cb280a5d3464896846d560ddb7744d3afcdc3d2356eeb4258087ee332ea63339fac
-Homepage: https://twitter.com/sattamalshlsh
+Architecture: iphoneos-arm
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Name: Filza File Manager (32bits)
-Author: sattamalshlsh
 Depiction: https://sattamalshlsh.github.io/sa/depic/filza.html
+Author: TIGI Software
+Section: Tweaks
+Maintainer: sattamalshlsh
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
 
 Package: sattamalshlsh.newterm2
 Name: newterm2
